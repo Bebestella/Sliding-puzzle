@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This Project is Built by using the React,Javascript,etc.[LIVE HEROKU DEPLOYMENT](https://puzzle-app-sliding.herokuapp.com/).
 
 ## Available Scripts
 

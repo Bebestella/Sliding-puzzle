@@ -25,7 +25,9 @@ function App() {
     <div className="App">
       <h1>React sliding puzzle</h1>
       <Board imgUrl={imgUrl} />
+
       <input value={imgUrl} onChange={handleImageChange} />
+      <label>Upload Any Image URL</label>
     </div>
   );
 }

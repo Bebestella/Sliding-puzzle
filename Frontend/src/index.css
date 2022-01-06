@@ -58,7 +58,12 @@ button {
   font-weight: 600;
 }
 label {
-  margin-top: -7%;
+  margin-top: -3%;
   font-size: 30px;
   font-weight: 700;
+}
+small {
+  font-size: 15px;
+  font-weight: 400;
+  margin-left: 6%;
 }

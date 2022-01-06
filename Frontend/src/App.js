@@ -23,11 +23,14 @@ function App() {
 
   return (
     <div className="App">
-      <h1>React sliding puzzle</h1>
+      <h1>Sliding Puzzle Game</h1>
       <Board imgUrl={imgUrl} />
 
       <input value={imgUrl} onChange={handleImageChange} />
-      <label>Upload Any Image URL</label>
+      <label>
+        Upload Any Image URL <br />{" "}
+        <small>(Upload the external image url only)</small>
+      </label>
     </div>
   );
 }

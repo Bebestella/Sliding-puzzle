@@ -29,7 +29,7 @@ function App() {
       <input value={imgUrl} onChange={handleImageChange} />
       <label>
         Upload Any Image URL <br />{" "}
-        <small>(Upload the external image url only)</small>
+        <small>Note:(Upload the external image url only)</small>
       </label>
     </div>
   );
